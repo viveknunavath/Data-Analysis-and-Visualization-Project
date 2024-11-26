@@ -19,7 +19,7 @@ Getting Started
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/viveknunavath/Data-Analysis-and-Visualization-Project
 Install the required Python libraries:
 bash
 Copy code
